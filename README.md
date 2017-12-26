@@ -7,4 +7,4 @@ Searches for polydivisible numbers in a given base.
 
 ### To Run ###
 
-    ./polydivisible \<base\>
+    ./polydivisible <base>
