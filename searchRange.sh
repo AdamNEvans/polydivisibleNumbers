@@ -8,5 +8,5 @@ fi
 
 for i in `seq $1 $2`; do
 	echo "================= Searching base $i ==================="
-	time ./a.out "$i"
+	time ./polydivisible "$i"
 done
